@@ -200,7 +200,7 @@ npm run dev
 
 ### 🌟 Star this project if you find it helpful!
 
-**Made with ❤️ by Aryan Sharma
+**Made with ❤️ by Shivangi Sharma
 
 
 </div>
